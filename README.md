@@ -26,7 +26,9 @@ myfile is text file containing random strings
 
 
 
-INSTALL: 1. Download the tar file to any linux directory 
+INSTALL: 
+	
+	 1. Download the tar file to any linux directory 
 
 	 2. Go to the command line and type in the downloaded directory: tar -xvf microshell.tar
 
