@@ -1,3 +1,7 @@
+Microshell
+==========
+
+
 This program mimics the bash shell by allowing the user to do basic commands and pipeing.
 
 
@@ -8,7 +12,7 @@ To exit shell type   quit or  q
 
 
 
-EXAMPLE:
+Example:
 ========
 	 myshell> ls -al 
 
@@ -29,7 +33,7 @@ myfile is text file containing random strings
 
 
 
-INSTALL: 
+Install: 
 ========	
 	 1. Download the tar file to any linux directory 
 
