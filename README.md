@@ -7,15 +7,18 @@ To pipe use command || command   	DO NOT USE |
 To exit shell type   quit or  q
 
 
-Example:
 
-	myshell> ls -al 
+EXAMPLE:
+========
+	 myshell> ls -al 
 
-	myshell> cat myfile || sort
+	 myshell> cat myfile || sort
 
-	myshell> more myfile || grep USA
+	 myshell> more myfile || grep USA
+ 
+	 myshell> quit 
 
-	myshell> quit 
+
 
 
 
@@ -27,7 +30,7 @@ myfile is text file containing random strings
 
 
 INSTALL: 
-	
+========	
 	 1. Download the tar file to any linux directory 
 
 	 2. Go to the command line and type in the downloaded directory: tar -xvf microshell.tar
