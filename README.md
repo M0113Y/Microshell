@@ -5,7 +5,10 @@ Microshell
 This program mimics the bash shell by allowing the user to do basic commands and pipeing.
 
 
-To pipe use command || command   	DO NOT USE |  
+To pipe:  command || command   	
+
+
+DO NOT USE |  
 
 
 To exit shell type   quit or  q
